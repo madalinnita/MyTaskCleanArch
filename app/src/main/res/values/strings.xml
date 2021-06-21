@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTaskCleanArch</string>
+    <string name="general_error">General Error</string>
+    <string name="ok">OK</string>
+    <string name="title">Title of the album:</string>
+    <string name="id">Id:</string>
+    <string name="userId">UserId:</string>
+</resources>

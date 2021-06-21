@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius">10dp</dimen>
+    <dimen name="elevation_dimen">10dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="tv_size_medium">16sp</dimen>
+</resources>
